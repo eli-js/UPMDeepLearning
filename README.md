@@ -1,8 +1,8 @@
 <p align="center"> <a target="_blank"> <img src="utils/upm_logo.png" width="600" alt="UPM Logo"> </a> </p> 
 <h1 align="center">Deep Learning - Master in Deep Learning of UPM</h1> 
 <p align="center"> Welcome to the official repository for the <strong>Deep Learning</strong> subject of the <a href="https://masterdeeplearning.etsisi.upm.es/">Master in Deep Learning</a> at the Universidad Politécnica de Madrid (UPM). </p> <p align="center"> 
-<strong>Coordinator:</strong> Javier Huertas Tato <br> 
-<strong>Teachers:</strong> Javier Huertas Tato, Helena Líz López & Adrián Girón Jiménez </p>
+
+<strong>Teachers:</strong> Helena Líz López & Adrián Girón Jiménez </p>
 
 ## 📖 Course Content
 
@@ -27,5 +27,5 @@
 
 
 ## 📅 Schedule
-Refer to the [schedule](https://masterdeeplearning.etsisi.upm.es/wp-content/uploads/2024/06/Horario-Master-Deep-Learning-UPM_v2.pdf) to check timings and plan your sessions.
+Refer to the [schedule]([https://masterdeeplearning.etsisi.upm.es/wp-content/uploads/2024/06/Horario-Master-Deep-Learning-UPM_v2.pdf](https://masterdeeplearning.etsisi.upm.es/wp-content/uploads/2025/09/Esquema-General-MDL-2ed-25-26-%E2%80%93-Horario-presencial-y-online-v7.pdf)) to check timings and plan your sessions.
 
