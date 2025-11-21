@@ -27,5 +27,5 @@
 
 
 ## 📅 Schedule
-Refer to the [schedule](https://masterdeeplearning.etsisi.upm.es/wp-content/uploads/2024/06/Horario-Master-Deep-Learning-UPM_v2.pdf](https://masterdeeplearning.etsisi.upm.es/wp-content/uploads/2025/09/Esquema-General-MDL-2ed-25-26-%E2%80%93-Horario-presencial-y-online-v7.pdf) to check timings and plan your sessions.
+Refer to the [schedule](https://masterdeeplearning.etsisi.upm.es/wp-content/uploads/2025/09/Esquema-General-MDL-2ed-25-26-%E2%80%93-Horario-presencial-y-online-v7.pdf) to check timings and plan your sessions.
 
