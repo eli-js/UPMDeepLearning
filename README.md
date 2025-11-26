@@ -22,8 +22,8 @@
 ### **Block 3: Deep Learning for Sequential Data**
 - 🔄 Session 8: [RNNs I](assignments/sequential/session_8)
 - 🔄 Session 9: [RNNs II](assignments/sequential/session_9)
-- 🔄 Session 10: [Attention](assignments/sequential/10_attention.ipynb)
-- 🔄 Session 11: [Transformers](assignments/sequential/11_transformers.ipynb)
+- 🔄 Session 10: [Embeddings](assignments/sequential/session_10)
+- 🔄 Session 11: [Transformers](assignments/sequential/session_11)
 
 
 ## 📅 Schedule
